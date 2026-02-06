@@ -9,3 +9,4 @@ Available commands:
 - /cp_inventory_valuation_check
 - /cp_reconcile_pos_vs_report
 - /cp_case_pack
+- /cp_drawer_repair
